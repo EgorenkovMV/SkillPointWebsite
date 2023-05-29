@@ -1,0 +1,21 @@
+{% extends 'main/layout.html' %}
+
+{% block title %}
+    <title>Main page</title>
+{% endblock %}
+
+{% block content %}
+    <div class="features">
+        <h1>{{ title }}</h1>
+        <p>aoaooaoaoaoao</p>
+        <button class="btn btn-warning">uuauuauua</button>
+
+        {% for i in values %}
+            {% if True %}
+                {% filter upper %}
+                    <p>{{ i }}</p>
+                {% endfilter %}
+            {% endif %}
+        {% endfor %}
+    </div>
+{% endblock %}
