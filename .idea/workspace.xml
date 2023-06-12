@@ -4,29 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5164ec2-419c-42b4-9c8e-2a76a2ae8e13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/SPWebsiteDjango/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/SPWebsiteDjango/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/SPWebsiteDjango/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/SPWebsiteDjango/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/SPWebsiteDjango/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/main/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/main/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/main/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/main/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/main/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/main/static/main/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/main/static/main/img/1017487.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/main/templates/main/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/main/templates/main/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/main/templates/main/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/main/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/main/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/main/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPWebsiteDjango/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e5164ec2-419c-42b4-9c8e-2a76a2ae8e13" name="Changes" comment="created project, static, templates, styles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPWebsiteDjango/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/SPWebsiteDjango/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPWebsiteDjango/main/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPWebsiteDjango/main/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPWebsiteDjango/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPWebsiteDjango/main/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPWebsiteDjango/main/templates/main/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/SPWebsiteDjango/main/templates/main/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPWebsiteDjango/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPWebsiteDjango/main/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2Q2pcoiO2kPtIcuO6uLUOMexECV" />
   <component name="ProjectLevelVcsManager">
@@ -91,10 +78,20 @@
       <option name="presentableId" value="Default" />
       <updated>1684561619875</updated>
     </task>
+    <task id="LOCAL-00001" summary="created project, static, templates, styles">
+      <created>1685382989671</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685382989671</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="created project, static, templates, styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="created project, static, templates, styles" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

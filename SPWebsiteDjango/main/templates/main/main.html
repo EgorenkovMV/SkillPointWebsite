@@ -10,12 +10,12 @@
         <p>aoaooaoaoaoao</p>
         <button class="btn btn-warning">uuauuauua</button>
 
-        {% for i in values %}
-            {% if True %}
-                {% filter upper %}
-                    <p>{{ i }}</p>
-                {% endfilter %}
-            {% endif %}
+        {% for i in entries %}
+            <div class="alert alert-warning">
+                <h3>{{ i.discipline }}</h3>
+                <p>{{ i.time }}</p>
+
+            </div>
         {% endfor %}
     </div>
 {% endblock %}
